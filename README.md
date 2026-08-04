@@ -15,7 +15,7 @@ It supports:
 - Completed with results analysis by Region of interest drawing and dose calculation
 
 ## Files
-- G4DARI_paper, publication describing the interface: https://academic.oup.com/rpd/advance-article/doi/10.1093/rpd/ncag076/8748461 
+- G4DARI paper, peer reviewed publication describing the interface: https://academic.oup.com/rpd/advance-article/doi/10.1093/rpd/ncag076/8748461 
 - https://bntrk.ca/G4DARI-demo.mp4.
 
 ## Keywords

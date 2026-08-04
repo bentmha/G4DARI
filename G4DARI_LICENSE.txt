@@ -1,0 +1,11 @@
+G4DARI Software License and Disclaimer
+
+G4DARI is provided free of charge for research and educational purposes.
+
+Permission is granted to use and modify this software for non-commercial purposes, provided that appropriate credit is given to the original authors.
+
+G4DARI is provided "as is", without any warranty or guarantee of any kind. The authors are not responsible for any damage, loss, or incorrect results arising from the use of this software.
+
+G4DARI is not a medical device and is not intended for clinical use, patient treatment, diagnosis, or any healthcare decision-making.
+
+Users are responsible for verifying and validating all results obtained with G4DARI before using them for any scientific or engineering purpose.

@@ -21,3 +21,5 @@ It supports:
 
 ## Keywords
 G4DARI, Geant4, Monte Carlo, Dosimetry, Radiation Physics
+
+## To download the interface G4DARI_211227_deploy.zip: https://github.com/bentmha/G4DARI/releases/tag/v1.0.1

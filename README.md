@@ -1,4 +1,4 @@
-# G4DARI (GEANT4 Dose And Radiation Interactions)
+# G4DARI (GEANT4 Dose And Radiation Interaction)
 Interface on MS Windows for Geant4 dosimetry simulations using CT images.
 
 # **G4DARI** is a Windows interface for **Geant4** designed to facilitate **Monte Carlo dosimetry simulations**.  
